@@ -1,6 +1,6 @@
 # Veri Yapilari 1
 
-www.patika.dev
+www.patika.dev <br>
 <strong> insertion sort aşamaları </strong>
   <li>[2,27,16,22,18,6]</li>
   <li>[2,6,16,22,18,27]</li>
