@@ -1,4 +1,4 @@
-# Veri Yapilari 1
+# Veriyap-lar-1
 
 <strong> insertion sort aşamaları </strong>
   <li>[2,27,16,22,18,6]</li>
