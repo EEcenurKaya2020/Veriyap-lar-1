@@ -11,4 +11,4 @@ Sort türüne göre aşamaları
  
  
  Big-O Gösterimi
- <li>O(nlogn)<li/>
+ <li>O(nlogn)
